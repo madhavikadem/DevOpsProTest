@@ -6,6 +6,7 @@ public class Welcome {
 		System.out.println("Welcome to code Lab Technology");
 		System.out.println(50*60);
 		System.out.println("Hurray we did it");
+		System.out.println("DevOps");
 	}
 
 }
