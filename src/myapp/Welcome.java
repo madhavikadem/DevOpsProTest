@@ -11,7 +11,7 @@ public class Welcome {
 		System.out.println("Testing Again ManualBuild");
 		System.out.println("This Winter Amazon offers $100 discount on iphone 14 pro");
 		System.out.println("buy one get one offer");
-		System.out.println("Holloeen offer for you ");
+		System.out.println("Holloeen offer");
 	}
 
 }
