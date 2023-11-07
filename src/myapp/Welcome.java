@@ -8,6 +8,7 @@ public class Welcome {
 		System.out.println("Hurray we did it");
 		System.out.println("Happy Holidays");
 		System.out.println("Testing Integration with Jenkins");
+		System.out.println("Testing Again ManualBuild");
 	}
 
 }
