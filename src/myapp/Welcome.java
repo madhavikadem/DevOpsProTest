@@ -10,7 +10,7 @@ public class Welcome {
 		System.out.println("Testing Integration with Jenkins");
 		System.out.println("Testing Again ManualBuild");
 		System.out.println("This Winter Amazon offers $100 discount on iphone 14 pro");
-		System.out.println("New iphone 15pro max");
+		System.out.println("buy one get one offer");
 	}
 
 }
